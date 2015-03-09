@@ -118,41 +118,13 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Content Include="Public\css\font-awesome.min.css" />
-    <Content Include="Public\css\ie\backgroundsize.min.htc" />
-    <Content Include="Public\css\ie\html5shiv.js" />
-    <Content Include="Public\css\ie\PIE.htc" />
-    <Content Include="Public\css\ie\v8.css" />
-    <Content Include="Public\css\images\overlay.png" />
-    <Content Include="Public\css\images\shadow.png" />
-    <Content Include="Public\css\skel.css" />
-    <Content Include="Public\css\style-1000px.css" />
-    <Content Include="Public\css\style-desktop.css" />
-    <Content Include="Public\css\style-mobile.css" />
-    <Content Include="Public\css\style.css" />
-    <Content Include="Public\fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Public\images\banner.jpg" />
-    <Content Include="Public\images\pic01.jpg" />
-    <Content Include="Public\images\pic02.jpg" />
-    <Content Include="Public\images\pic03.jpg" />
-    <Content Include="Public\images\pic04.jpg" />
-    <Content Include="Public\images\pic05.jpg" />
-    <Content Include="Public\images\pic06.jpg" />
-    <Content Include="Public\images\pic07.jpg" />
-    <Content Include="Public\images\pic08.jpg" />
-    <Content Include="Public\images\pic09.jpg" />
-    <Content Include="Public\images\pic10.jpg" />
-    <Content Include="Public\js\init.js" />
-    <Content Include="Public\js\jquery.dropotron.min.js" />
-    <Content Include="Public\js\jquery.min.js" />
-    <Content Include="Public\js\skel-layers.min.js" />
-    <Content Include="Public\js\skel.min.js" />
-    <Content Include="Properties\LICENSE.txt" />
-    <Content Include="Properties\README.txt" />
-    <Content Include="Views\left-sidebar\left-sidebar.html" />
-    <Content Include="Views\no-sidebar\no-sidebar.html" />
-    <Content Include="Views\right-sidebar\right-sidebar.html" />
+    <Content Include="Public\Business_zonne_b.jpg" />
+    <Content Include="Public\Business_zonne_th.jpg" />
+    <Content Include="Public\image.txt" />
+    <Content Include="Public\images\bg.jpg" />
+    <Content Include="Public\images\header.jpg" />
+    <Content Include="Public\style.css" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -171,13 +143,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Home\Index.cshtml" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Public\fonts\fontawesome-webfont.eot" />
-    <Content Include="Public\fonts\fontawesome-webfont.ttf" />
-    <Content Include="Public\fonts\fontawesome-webfont.woff" />
-    <Content Include="Public\fonts\fontawesome-webfont.woff2" />
-    <Content Include="Public\fonts\FontAwesome.otf" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
