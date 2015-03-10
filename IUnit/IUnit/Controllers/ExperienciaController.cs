@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace IUnit.Controllers
 {
-    public class HomeController : Controller
+    public class ExperienciaController : Controller
     {
         public ActionResult Index()
         {

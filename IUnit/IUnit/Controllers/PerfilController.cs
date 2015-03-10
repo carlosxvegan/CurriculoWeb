@@ -6,8 +6,11 @@ using System.Web.Mvc;
 
 namespace IUnit.Controllers
 {
-    public class HomeController : Controller
+    public class PerfilController : Controller
     {
+        //
+        // GET: /Perfil/
+
         public ActionResult Index()
         {
             return View();

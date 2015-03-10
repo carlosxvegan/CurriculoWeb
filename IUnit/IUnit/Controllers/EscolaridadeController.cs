@@ -6,8 +6,11 @@ using System.Web.Mvc;
 
 namespace IUnit.Controllers
 {
-    public class HomeController : Controller
+    public class EscolaridadeController : Controller
     {
+        //
+        // GET: /Escolaridade/
+
         public ActionResult Index()
         {
             return View();
