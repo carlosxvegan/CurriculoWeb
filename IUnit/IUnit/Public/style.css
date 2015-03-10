@@ -21,7 +21,7 @@ a:hover {
 	text-decoration:none;
 }
 body {
-	background: #FFFFFF  url(images/bg.jpg) repeat-x;
+	background: #FFFFFF  url(/Public/images/bg.jpg) repeat-x;
 	}
 #wrap{
 	width:699px;
@@ -34,7 +34,7 @@ body {
 /*Header*/
 
 #header{
-	height:242px;
+	height:250px;
 	background:url(images/header.jpg) no-repeat left top;
 	clear: both;
 }
