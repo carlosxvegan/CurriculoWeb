@@ -90,12 +90,14 @@ body {
 }
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
-.masthead-nav > .active > a:focus {
+.masthead-nav > .active > a:focus
+{
+  
   color: #fff;
   border-bottom-color: #fff;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 10000px) {
   .masthead-brand {
     float: left;
   }
